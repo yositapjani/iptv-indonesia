@@ -195,3 +195,5 @@ https://play.fsa-stream.my.id/hls/siaran.m3u8
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 group-title="Suplemen",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png" group-title="Nasional", TVRI Sport HD
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8

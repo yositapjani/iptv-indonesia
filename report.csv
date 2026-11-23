@@ -97,6 +97,7 @@ UGTV (720p),https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8,PASS,OK
 USM TV (1080p),https://play.fsa-stream.my.id/hls/siaran.m3u8,PASS,OK
 RTV,https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8,PASS,OK
 Magna Channel,https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8,PASS,OK
+TVRI Sport HD,https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8,PASS,OK
 AFBTV Kupang (1080p) [Not 24/7],https://afbtv.siar.us/live/afbtv.m3u8,FAIL,probe gagal: https://afbtv.siar.us/live/afbtv.m3u8: Input/output error
 Ajwa TV (1080p),http://ikitv.sqn.at:8000/play/a00j/index.m3u8,FAIL,probe gagal: http://ikitv.sqn.at:8000/play/a00j/index.m3u8: Server returned 404 Not Found
 AKTV (1080p) [Not 24/7],https://akativi.siar.us/live/akativi.m3u8,FAIL,probe gagal: https://akativi.siar.us/live/akativi.m3u8: Server returned 404 Not Found
